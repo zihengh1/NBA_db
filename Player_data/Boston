@@ -1,18 +1,18 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Allen,Kadeem,G,45,6.3,200,1993-1-15
-1,Baynes,Aron,C,46,6.10,260,1986-12-9
-2,Bird,Jabari,G,26,6.6,198,1994-7-3
-3,Brown,Jaylen,G,7,6.7,225,1996-10-24
-4,Hayward,Gordon,F,20,6.8,226,1990-3-23
-5,Horford,Al,F,42,6.10,245,1986-6-3
-6,Irving,Kyrie,G,11,6.3,193,1992-3-23
-7,Larkin,Shane,G,8,5.11,175,1992-10-2
-8,Monroe,Greg,C,55,6.11,265,1990-6-4
-9,Morris,Marcus,F,13,6.9,235,1989-9-2
-10,Nader,Abdel,F,28,6.6,230,1993-9-25
-11,Ojeleye,Semi,F,37,6.7,235,1994-12-5
-12,Rozier,Terry,G,12,6.2,190,1994-3-17
-13,Smart,Marcus,G,36,6.4,220,1994-3-6
-14,Tatum,Jayson,F,0,6.8,205,1998-3-3
-15,Theis,Daniel,F,27,6.9,243,1992-4-4
-16,Yabusele,Guerschon,F,30,6.8,260,1995-12-17
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+0,Allen,Kadeem,G,0,45,6.3,200,1993-1-15
+1,Baynes,Aron,C,0,46,6.10,260,1986-12-9
+2,Bird,Jabari,G,0,26,6.6,198,1994-7-3
+3,Brown,Jaylen,G,0,7,6.7,225,1996-10-24
+4,Hayward,Gordon,F,0,20,6.8,226,1990-3-23
+5,Horford,Al,F,0,42,6.10,245,1986-6-3
+6,Irving,Kyrie,G,0,11,6.3,193,1992-3-23
+7,Larkin,Shane,G,0,8,5.11,175,1992-10-2
+8,Monroe,Greg,C,0,55,6.11,265,1990-6-4
+9,Morris,Marcus,F,0,13,6.9,235,1989-9-2
+10,Nader,Abdel,F,0,28,6.6,230,1993-9-25
+11,Ojeleye,Semi,F,0,37,6.7,235,1994-12-5
+12,Rozier,Terry,G,0,12,6.2,190,1994-3-17
+13,Smart,Marcus,G,0,36,6.4,220,1994-3-6
+14,Tatum,Jayson,F,0,0,6.8,205,1998-3-3
+15,Theis,Daniel,F,0,27,6.9,243,1992-4-4
+16,Yabusele,Guerschon,F,0,30,6.8,260,1995-12-17

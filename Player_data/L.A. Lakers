@@ -1,18 +1,18 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Ball,Lonzo,G,2,6.6,190,1997-10-27
-1,Bryant,Thomas,C,31,6.10,248,1997-7-31
-2,CaldwellPope,Kentavious,G,1,6.5,205,1993-2-18
-3,Caruso,Alex,G,4,6.5,186,1994-2-28
-4,Deng,Luol,F,9,6.9,220,1985-4-16
-5,Ennis,Tyler,G,10,6.3,194,1994-8-24
-6,Frye,Channing,F,12,6.11,255,1983-5-17
-7,Hart,Josh,G,5,6.5,215,1995-3-6
-8,Ingram,Andre,G,20,6.3,190,1985-11-19
-9,Ingram,Brandon,F,14,6.9,190,1997-9-2
-10,Kuzma,Kyle,F,0,6.9,220,1995-7-24
-11,Lopez,Brook,C,11,7.0,268,1988-4-1
-12,Payton,II,G,23,6.3,190,1992-12-1
-13,Randle,Julius,F,30,6.9,250,1994-11-29
-14,Thomas,Isaiah,G,3,5.9,185,1989-2-7
-15,Wear,Travis,F,21,6.10,225,1990-9-21
-16,Zubac,Ivica,C,40,7.1,240,1997-3-18
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+365,Ball,Lonzo,G,22,2,6.6,190,1997-10-27
+366,Bryant,Thomas,C,22,31,6.10,248,1997-7-31
+367,CaldwellPope,Kentavious,G,22,1,6.5,205,1993-2-18
+368,Caruso,Alex,G,22,4,6.5,186,1994-2-28
+369,Deng,Luol,F,22,9,6.9,220,1985-4-16
+370,Ennis,Tyler,G,22,10,6.3,194,1994-8-24
+371,Frye,Channing,F,22,12,6.11,255,1983-5-17
+372,Hart,Josh,G,22,5,6.5,215,1995-3-6
+373,Ingram,Andre,G,22,20,6.3,190,1985-11-19
+374,Ingram,Brandon,F,22,14,6.9,190,1997-9-2
+375,Kuzma,Kyle,F,22,0,6.9,220,1995-7-24
+376,Lopez,Brook,C,22,11,7.0,268,1988-4-1
+377,Payton,II,G,22,23,6.3,190,1992-12-1
+378,Randle,Julius,F,22,30,6.9,250,1994-11-29
+379,Thomas,Isaiah,G,22,3,5.9,185,1989-2-7
+380,Wear,Travis,F,22,21,6.10,225,1990-9-21
+381,Zubac,Ivica,C,22,40,7.1,240,1997-3-18

@@ -1,18 +1,18 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Bogdanovic,Bogdan,G,8,6.6,205,1992-8-18
-1,Caboclo,Bruno,F,22,6.9,205,1995-9-21
-2,Carter,Vince,G,15,6.6,220,1977-1-26
-3,CauleyStein,Willie,C,00,7.0,240,1993-8-18
-4,Cooley,Jack,C,45,6.10,274,1991-4-12
-5,Fox,DeAaron,G,5,6.3,175,1997-12-20
-6,Giles,III,F,20,6.10,240,1998-4-22
-7,Hayes,Nigel,F,40,6.7,254,1994-12-16
-8,Hield,Buddy,G,24,6.4,214,1993-12-17
-9,Jackson,Justin,F,25,6.8,210,1995-3-28
-10,Koufos,Kosta,C,41,7.0,265,1989-2-24
-11,Labissiere,Skal,F,7,6.11,225,1996-3-18
-12,Mason,Frank,G,10,5.11,190,1994-4-3
-13,Randolph,Zach,F,50,6.9,250,1981-7-16
-14,Sampson,Jakarr,F,29,6.9,207,1993-3-20
-15,Shumpert,Iman,G,9,6.5,220,1990-6-26
-16,Temple,Garrett,F,17,6.6,195,1986-5-8
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+399,Bogdanovic,Bogdan,G,24,8,6.6,205,1992-8-18
+400,Caboclo,Bruno,F,24,22,6.9,205,1995-9-21
+401,Carter,Vince,G,24,15,6.6,220,1977-1-26
+402,CauleyStein,Willie,C,24,00,7.0,240,1993-8-18
+403,Cooley,Jack,C,24,45,6.10,274,1991-4-12
+404,Fox,DeAaron,G,24,5,6.3,175,1997-12-20
+405,Giles,III,F,24,20,6.10,240,1998-4-22
+406,Hayes,Nigel,F,24,40,6.7,254,1994-12-16
+407,Hield,Buddy,G,24,24,6.4,214,1993-12-17
+408,Jackson,Justin,F,24,25,6.8,210,1995-3-28
+409,Koufos,Kosta,C,24,41,7.0,265,1989-2-24
+410,Labissiere,Skal,F,24,7,6.11,225,1996-3-18
+411,Mason,Frank,G,24,10,5.11,190,1994-4-3
+412,Randolph,Zach,F,24,50,6.9,250,1981-7-16
+413,Sampson,Jakarr,F,24,29,6.9,207,1993-3-20
+414,Shumpert,Iman,G,24,9,6.5,220,1990-6-26
+415,Temple,Garrett,F,24,17,6.6,195,1986-5-8

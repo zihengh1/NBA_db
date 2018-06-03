@@ -1,18 +1,18 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Abrines,Alex,G,8,6.6,190,1993-8-1
-1,Adams,Steven,C,12,7.0,255,1993-7-20
-2,Anthony,Carmelo,F,7,6.8,240,1984-5-29
-3,Brewer,Corey,G,3,6.9,186,1986-3-5
-4,Collison,Nick,F,4,6.10,255,1980-10-26
-5,Dozier,PJ,G,35,6.6,205,1996-10-25
-6,Felton,Raymond,G,2,6.1,205,1984-6-26
-7,Ferguson,Terrance,G,23,6.7,184,1998-5-17
-8,George,Paul,F,13,6.9,220,1990-5-2
-9,Grant,Jerami,F,9,6.9,220,1994-3-12
-10,Hamilton,Daniel,G,25,6.7,195,1995-8-8
-11,Huestis,Josh,G,34,6.7,230,1991-12-19
-12,Johnson,Dakari,C,44,7.0,255,1995-9-22
-13,Patterson,Patrick,F,54,6.9,230,1989-3-14
-14,Roberson,Andre,G,21,6.7,210,1991-12-4
-15,Singler,Kyle,F,15,6.8,228,1988-5-4
-16,Westbrook,Russell,G,0,6.3,200,1988-11-12
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+283,Abrines,Alex,G,17,8,6.6,190,1993-8-1
+284,Adams,Steven,C,17,12,7.0,255,1993-7-20
+285,Anthony,Carmelo,F,17,7,6.8,240,1984-5-29
+286,Brewer,Corey,G,17,3,6.9,186,1986-3-5
+287,Collison,Nick,F,17,4,6.10,255,1980-10-26
+288,Dozier,PJ,G,17,35,6.6,205,1996-10-25
+289,Felton,Raymond,G,17,2,6.1,205,1984-6-26
+290,Ferguson,Terrance,G,17,23,6.7,184,1998-5-17
+291,George,Paul,F,17,13,6.9,220,1990-5-2
+292,Grant,Jerami,F,17,9,6.9,220,1994-3-12
+293,Hamilton,Daniel,G,17,25,6.7,195,1995-8-8
+294,Huestis,Josh,G,17,34,6.7,230,1991-12-19
+295,Johnson,Dakari,C,17,44,7.0,255,1995-9-22
+296,Patterson,Patrick,F,17,54,6.9,230,1989-3-14
+297,Roberson,Andre,G,17,21,6.7,210,1991-12-4
+298,Singler,Kyle,F,17,15,6.8,228,1988-5-4
+299,Westbrook,Russell,G,17,0,6.3,200,1988-11-12

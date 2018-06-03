@@ -1,18 +1,18 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Anigbogu,Ike,C,13,6.10,262,1998-10-16
-1,Bogdanovic,Bojan,F,44,6.8,230,1989-4-18
-2,Booker,Trevor,F,20,6.8,228,1987-11-25
-3,Collison,Darren,G,2,6.2,185,1987-8-23
-4,Jefferson,Al,C,25,6.10,280,1985-1-4
-5,Joseph,Cory,G,6,6.3,190,1991-8-20
-6,Leaf,TJ,F,22,6.10,230,1997-4-30
-7,Moore,Ben,F,26,6.8,220,1995-5-13
-8,Oladipo,Victor,G,4,6.4,210,1992-5-4
-9,Poythress,Alex,F,0,6.9,235,1993-9-6
-10,Robinson,III,G,40,6.7,215,1994-1-8
-11,Sabonis,Domantas,C,11,6.10,252,1996-5-3
-12,Stephenson,Lance,G,1,6.6,230,1990-9-5
-13,Sumner,Edmond,G,5,6.5,188,1995-12-31
-14,Turner,Myles,C,33,6.11,255,1996-3-24
-15,Young,Joe,G,3,6.2,185,1992-6-27
-16,Young,Thaddeus,F,21,6.8,230,1988-6-21
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+133,Anigbogu,Ike,C,8,13,6.10,262,1998-10-16
+134,Bogdanovic,Bojan,F,8,44,6.8,230,1989-4-18
+135,Booker,Trevor,F,8,20,6.8,228,1987-11-25
+136,Collison,Darren,G,8,2,6.2,185,1987-8-23
+137,Jefferson,Al,C,8,25,6.10,280,1985-1-4
+138,Joseph,Cory,G,8,6,6.3,190,1991-8-20
+139,Leaf,TJ,F,8,22,6.10,230,1997-4-30
+140,Moore,Ben,F,8,26,6.8,220,1995-5-13
+141,Oladipo,Victor,G,8,4,6.4,210,1992-5-4
+142,Poythress,Alex,F,8,0,6.9,235,1993-9-6
+143,Robinson,III,G,8,40,6.7,215,1994-1-8
+144,Sabonis,Domantas,C,8,11,6.10,252,1996-5-3
+145,Stephenson,Lance,G,8,1,6.6,230,1990-9-5
+146,Sumner,Edmond,G,8,5,6.5,188,1995-12-31
+147,Turner,Myles,C,8,33,6.11,255,1996-3-24
+148,Young,Joe,G,8,3,6.2,185,1992-6-27
+149,Young,Thaddeus,F,8,21,6.8,230,1988-6-21

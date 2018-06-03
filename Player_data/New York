@@ -1,18 +1,18 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Baker,Ron,G,31,6.4,220,1993-3-30
-1,Beasley,Michael,F,8,6.9,235,1989-1-9
-2,Burke,Trey,G,23,6.1,191,1992-11-12
-3,Dotson,Damyean,G,21,6.5,210,1994-5-6
-4,Hardaway,Jr,F,3,6.6,205,1992-3-16
-5,Hicks,Isaiah,F,4,6.9,242,1994-7-24
-6,Jack,Jarrett,G,55,6.3,200,1983-10-28
-7,Kanter,Enes,C,00,6.11,245,1992-5-20
-8,Kornet,Luke,F,2,7.1,250,1995-7-15
-9,Lee,Courtney,G,5,6.5,200,1985-10-3
-10,Mudiay,Emmanuel,G,1,6.5,200,1996-3-5
-11,Noah,Joakim,C,13,6.11,230,1985-2-25
-12,Ntilikina,Frank,G,11,6.5,190,1998-7-28
-13,OQuinn,Kyle,C,9,6.10,250,1990-3-26
-14,Porzingis,Kristaps,F,6,7.3,240,1995-8-2
-15,Thomas,Lance,F,42,6.8,235,1988-4-24
-16,Williams,Troy,F,0,6.7,218,1994-12-30
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+34,Baker,Ron,G,2,31,6.4,220,1993-3-30
+35,Beasley,Michael,F,2,8,6.9,235,1989-1-9
+36,Burke,Trey,G,2,23,6.1,191,1992-11-12
+37,Dotson,Damyean,G,2,21,6.5,210,1994-5-6
+38,Hardaway,Jr,F,2,3,6.6,205,1992-3-16
+39,Hicks,Isaiah,F,2,4,6.9,242,1994-7-24
+40,Jack,Jarrett,G,2,55,6.3,200,1983-10-28
+41,Kanter,Enes,C,2,00,6.11,245,1992-5-20
+42,Kornet,Luke,F,2,2,7.1,250,1995-7-15
+43,Lee,Courtney,G,2,5,6.5,200,1985-10-3
+44,Mudiay,Emmanuel,G,2,1,6.5,200,1996-3-5
+45,Noah,Joakim,C,2,13,6.11,230,1985-2-25
+46,Ntilikina,Frank,G,2,11,6.5,190,1998-7-28
+47,OQuinn,Kyle,C,2,9,6.10,250,1990-3-26
+48,Porzingis,Kristaps,F,2,6,7.3,240,1995-8-2
+49,Thomas,Lance,F,2,42,6.8,235,1988-4-24
+50,Williams,Troy,F,2,0,6.7,218,1994-12-30

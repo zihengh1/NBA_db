@@ -1,18 +1,18 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Bradley,Tony,C,13,6.10,248,1998-1-8
-1,Burks,Alec,G,10,6.6,214,1991-7-20
-2,Crowder,Jae,F,99,6.6,235,1990-7-6
-3,Exum,Dante,G,11,6.6,190,1995-7-13
-4,Favors,Derrick,F,15,6.10,265,1991-7-15
-5,Gobert,Rudy,C,27,7.1,245,1992-6-26
-6,Ingles,Joe,F,2,6.8,226,1987-10-2
-7,Jerebko,Jonas,F,8,6.10,231,1987-3-2
-8,McCree,Erik,F,21,6.8,225,1993-12-20
-9,Mitchell,Donovan,G,45,6.3,215,1996-9-7
-10,Neto,Raul,G,25,6.1,179,1992-5-19
-11,Niang,Georges,F,31,6.6,231,1993-6-17
-12,ONeale,Royce,F,23,6.6,226,1993-6-5
-13,Rubio,Ricky,G,3,6.4,190,1990-10-21
-14,Sefolosha,Thabo,F,22,6.7,220,1984-5-2
-15,Stockton,David,G,5,5.11,165,1991-6-24
-16,Udoh,Ekpe,C,33,6.10,245,1987-5-20
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+316,Bradley,Tony,C,19,13,6.10,248,1998-1-8
+317,Burks,Alec,G,19,10,6.6,214,1991-7-20
+318,Crowder,Jae,F,19,99,6.6,235,1990-7-6
+319,Exum,Dante,G,19,11,6.6,190,1995-7-13
+320,Favors,Derrick,F,19,15,6.10,265,1991-7-15
+321,Gobert,Rudy,C,19,27,7.1,245,1992-6-26
+322,Ingles,Joe,F,19,2,6.8,226,1987-10-2
+323,Jerebko,Jonas,F,19,8,6.10,231,1987-3-2
+324,McCree,Erik,F,19,21,6.8,225,1993-12-20
+325,Mitchell,Donovan,G,19,45,6.3,215,1996-9-7
+326,Neto,Raul,G,19,25,6.1,179,1992-5-19
+327,Niang,Georges,F,19,31,6.6,231,1993-6-17
+328,ONeale,Royce,F,19,23,6.6,226,1993-6-5
+329,Rubio,Ricky,G,19,3,6.4,190,1990-10-21
+330,Sefolosha,Thabo,F,19,22,6.7,220,1984-5-2
+331,Stockton,David,G,19,5,5.11,165,1991-6-24
+332,Udoh,Ekpe,C,19,33,6.10,245,1987-5-20

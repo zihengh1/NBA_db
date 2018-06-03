@@ -1,17 +1,17 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Beal,Bradley,G,3,6.5,207,1993-6-28
-1,Frazier,Tim,G,8,6.1,170,1990-11-1
-2,Gortat,Marcin,C,13,6.11,240,1984-2-17
-3,Lawson,Ty,G,4,5.11,195,1987-11-3
-4,Mahinmi,Ian,C,28,6.11,262,1986-11-5
-5,McCullough,Chris,F,1,6.9,215,1995-2-5
-6,Meeks,Jodie,G,20,6.4,210,1987-8-21
-7,Morris,Markieff,F,5,6.10,245,1989-9-2
-8,Oubre,Jr,F,12,6.7,205,1995-12-9
-9,Porter,Jr,F,22,6.8,198,1993-6-3
-10,Robinson,Devin,F,7,6.8,200,1995-3-7
-11,Satoransky,Tomas,G,31,6.7,210,1991-10-30
-12,Scott,Mike,F,30,6.8,237,1988-7-16
-13,Sessions,Ramon,G,9,6.3,190,1986-4-11
-14,Smith,Jason,F,14,7.0,240,1986-3-2
-15,Wall,John,G,2,6.4,210,1990-9-6
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+234,Beal,Bradley,G,14,3,6.5,207,1993-6-28
+235,Frazier,Tim,G,14,8,6.1,170,1990-11-1
+236,Gortat,Marcin,C,14,13,6.11,240,1984-2-17
+237,Lawson,Ty,G,14,4,5.11,195,1987-11-3
+238,Mahinmi,Ian,C,14,28,6.11,262,1986-11-5
+239,McCullough,Chris,F,14,1,6.9,215,1995-2-5
+240,Meeks,Jodie,G,14,20,6.4,210,1987-8-21
+241,Morris,Markieff,F,14,5,6.10,245,1989-9-2
+242,Oubre,Jr,F,14,12,6.7,205,1995-12-9
+243,Porter,Jr,F,14,22,6.8,198,1993-6-3
+244,Robinson,Devin,F,14,7,6.8,200,1995-3-7
+245,Satoransky,Tomas,G,14,31,6.7,210,1991-10-30
+246,Scott,Mike,F,14,30,6.8,237,1988-7-16
+247,Sessions,Ramon,G,14,9,6.3,190,1986-4-11
+248,Smith,Jason,F,14,14,7.0,240,1986-3-2
+249,Wall,John,G,14,2,6.4,210,1990-9-6

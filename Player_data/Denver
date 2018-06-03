@@ -1,18 +1,18 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Arthur,Darrell,F,00,6.9,235,1988-3-25
-1,Barton,Will,F,5,6.6,190,1991-1-6
-2,Beasley,Malik,G,25,6.5,196,1996-11-26
-3,Chandler,Wilson,F,21,6.9,225,1987-5-10
-4,Craig,Torrey,G,3,6.6,215,1990-12-19
-5,Faried,Kenneth,F,35,6.8,228,1989-11-19
-6,Harris,Devin,G,34,6.3,185,1983-2-27
-7,Harris,Gary,G,14,6.4,210,1994-9-14
-8,Hernangomez,Juancho,F,41,6.9,230,1995-9-28
-9,Jefferson,Richard,F,22,6.7,233,1980-6-21
-10,Jokic,Nikola,C,15,6.10,250,1995-2-19
-11,Lydon,Tyler,F,20,6.9,220,1996-4-9
-12,Lyles,Trey,F,7,6.10,234,1995-11-5
-13,Millsap,Paul,F,4,6.8,246,1985-2-10
-14,Morris,Monte,G,11,6.3,175,1995-6-27
-15,Murray,Jamal,G,27,6.4,207,1997-2-23
-16,Plumlee,Mason,C,24,6.11,255,1990-3-5
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+250,Arthur,Darrell,F,15,00,6.9,235,1988-3-25
+251,Barton,Will,F,15,5,6.6,190,1991-1-6
+252,Beasley,Malik,G,15,25,6.5,196,1996-11-26
+253,Chandler,Wilson,F,15,21,6.9,225,1987-5-10
+254,Craig,Torrey,G,15,3,6.6,215,1990-12-19
+255,Faried,Kenneth,F,15,35,6.8,228,1989-11-19
+256,Harris,Devin,G,15,34,6.3,185,1983-2-27
+257,Harris,Gary,G,15,14,6.4,210,1994-9-14
+258,Hernangomez,Juancho,F,15,41,6.9,230,1995-9-28
+259,Jefferson,Richard,F,15,22,6.7,233,1980-6-21
+260,Jokic,Nikola,C,15,15,6.10,250,1995-2-19
+261,Lydon,Tyler,F,15,20,6.9,220,1996-4-9
+262,Lyles,Trey,F,15,7,6.10,234,1995-11-5
+263,Millsap,Paul,F,15,4,6.8,246,1985-2-10
+264,Morris,Monte,G,15,11,6.3,175,1995-6-27
+265,Murray,Jamal,G,15,27,6.4,207,1997-2-23
+266,Plumlee,Mason,C,15,24,6.11,255,1990-3-5

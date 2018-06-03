@@ -1,18 +1,18 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Anderson,Ryan,F,33,6.10,240,1988-5-6
-1,Ariza,Trevor,F,1,6.8,215,1985-6-30
-2,Black,Tarik,F,28,6.9,250,1991-11-22
-3,Brown,Markel,G,26,6.3,190,1992-1-29
-4,Capela,Clint,C,15,6.10,240,1994-5-18
-5,Gordon,Eric,G,10,6.4,215,1988-12-25
-6,Green,Gerald,G,14,6.7,205,1986-1-26
-7,Harden,James,G,13,6.5,220,1989-8-26
-8,Hunter,RJ,G,2,6.5,185,1993-10-24
-9,Jackson,Aaron,G,5,6.3,183,1986-5-6
-10,Johnson,Joe,G,7,6.7,240,1981-6-29
-11,Mbah,a,F,12,6.8,230,1986-9-9
-12,Nene,,C,42,6.11,250,1982-9-13
-13,Onuaku,Chinanu,C,21,6.10,245,1996-11-1
-14,Paul,Chris,G,3,6.0,175,1985-5-6
-15,Qi,Zhou,F,9,7.1,210,1996-1-16
-16,Tucker,PJ,F,4,6.6,245,1985-5-5
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+434,Anderson,Ryan,F,26,33,6.10,240,1988-5-6
+435,Ariza,Trevor,F,26,1,6.8,215,1985-6-30
+436,Black,Tarik,F,26,28,6.9,250,1991-11-22
+437,Brown,Markel,G,26,26,6.3,190,1992-1-29
+438,Capela,Clint,C,26,15,6.10,240,1994-5-18
+439,Gordon,Eric,G,26,10,6.4,215,1988-12-25
+440,Green,Gerald,G,26,14,6.7,205,1986-1-26
+441,Harden,James,G,26,13,6.5,220,1989-8-26
+442,Hunter,RJ,G,26,2,6.5,185,1993-10-24
+443,Jackson,Aaron,G,26,5,6.3,183,1986-5-6
+444,Johnson,Joe,G,26,7,6.7,240,1981-6-29
+445,Mbah,a,F,26,12,6.8,230,1986-9-9
+446,Nene,,C,26,42,6.11,250,1982-9-13
+447,Onuaku,Chinanu,C,26,21,6.10,245,1996-11-1
+448,Paul,Chris,G,26,3,6.0,175,1985-5-6
+449,Qi,Zhou,F,26,9,7.1,210,1996-1-16
+450,Tucker,PJ,F,26,4,6.6,245,1985-5-5

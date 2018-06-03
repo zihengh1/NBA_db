@@ -1,17 +1,17 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Anunoby,OG,F,3,6.8,235,1997-7-17
-1,Brown,Lorenzo,G,4,6.5,189,1990-8-26
-2,DeRozan,DeMar,G,10,6.7,220,1989-8-7
-3,Ibaka,Serge,F,9,6.10,235,1989-9-18
-4,Lowry,Kyle,G,7,6.0,205,1986-3-25
-5,McKinnie,Alfonzo,F,34,6.8,215,1992-9-17
-6,Miles,CJ,F,0,6.6,225,1987-3-18
-7,Miller,Malcolm,F,13,6.7,210,1993-3-6
-8,Nogueira,Lucas,C,92,7.0,220,1992-7-26
-9,Poeltl,Jakob,C,42,7.0,230,1995-10-15
-10,Powell,Norman,F,24,6.4,215,1993-5-25
-11,Richardson,Malachi,G,22,6.6,205,1996-1-5
-12,Siakam,Pascal,F,43,6.9,230,1994-4-2
-13,Valanciunas,Jonas,C,17,7.0,255,1992-5-6
-14,VanVleet,Fred,G,23,6.0,195,1994-2-25
-15,Wright,Delon,G,55,6.5,190,1992-4-26
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+67,Anunoby,OG,F,4,3,6.8,235,1997-7-17
+68,Brown,Lorenzo,G,4,4,6.5,189,1990-8-26
+69,DeRozan,DeMar,G,4,10,6.7,220,1989-8-7
+70,Ibaka,Serge,F,4,9,6.10,235,1989-9-18
+71,Lowry,Kyle,G,4,7,6.0,205,1986-3-25
+72,McKinnie,Alfonzo,F,4,34,6.8,215,1992-9-17
+73,Miles,CJ,F,4,0,6.6,225,1987-3-18
+74,Miller,Malcolm,F,4,13,6.7,210,1993-3-6
+75,Nogueira,Lucas,C,4,92,7.0,220,1992-7-26
+76,Poeltl,Jakob,C,4,42,7.0,230,1995-10-15
+77,Powell,Norman,F,4,24,6.4,215,1993-5-25
+78,Richardson,Malachi,G,4,22,6.6,205,1996-1-5
+79,Siakam,Pascal,F,4,43,6.9,230,1994-4-2
+80,Valanciunas,Jonas,C,4,17,7.0,255,1992-5-6
+81,VanVleet,Fred,G,4,23,6.0,195,1994-2-25
+82,Wright,Delon,G,4,55,6.5,190,1992-4-26

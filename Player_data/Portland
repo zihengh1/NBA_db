@@ -1,17 +1,17 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Aminu,AlFarouq,F,8,6.9,220,1990-9-21
-1,Baldwin,IV,G,2,6.4,202,1996-3-29
-2,Collins,Zach,C,33,7.0,230,1997-11-19
-3,Connaughton,Pat,G,5,6.5,210,1993-1-6
-4,Davis,Ed,F,17,6.10,245,1989-6-5
-5,Harkless,Maurice,F,4,6.9,220,1993-5-11
-6,Layman,Jake,F,10,6.9,210,1994-3-7
-7,Leonard,Meyers,C,11,7.1,255,1992-2-27
-8,Lillard,Damian,G,0,6.3,195,1990-7-15
-9,McCollum,CJ,G,3,6.3,190,1991-9-19
-10,Napier,Shabazz,G,6,6.1,175,1991-7-14
-11,Nurkic,Jusuf,C,27,7.0,280,1994-8-23
-12,Papagiannis,Georgios,C,19,7.1,240,1997-7-3
-13,Swanigan,Caleb,F,50,6.8,250,1997-4-18
-14,Turner,Evan,F,1,6.7,220,1988-10-27
-15,Wilcox,CJ,G,23,6.5,195,1990-12-30
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+300,Aminu,AlFarouq,F,18,8,6.9,220,1990-9-21
+301,Baldwin,IV,G,18,2,6.4,202,1996-3-29
+302,Collins,Zach,C,18,33,7.0,230,1997-11-19
+303,Connaughton,Pat,G,18,5,6.5,210,1993-1-6
+304,Davis,Ed,F,18,17,6.10,245,1989-6-5
+305,Harkless,Maurice,F,18,4,6.9,220,1993-5-11
+306,Layman,Jake,F,18,10,6.9,210,1994-3-7
+307,Leonard,Meyers,C,18,11,7.1,255,1992-2-27
+308,Lillard,Damian,G,18,0,6.3,195,1990-7-15
+309,McCollum,CJ,G,18,3,6.3,190,1991-9-19
+310,Napier,Shabazz,G,18,6,6.1,175,1991-7-14
+311,Nurkic,Jusuf,C,18,27,7.0,280,1994-8-23
+312,Papagiannis,Georgios,C,18,19,7.1,240,1997-7-3
+313,Swanigan,Caleb,F,18,50,6.8,250,1997-4-18
+314,Turner,Evan,F,18,1,6.7,220,1988-10-27
+315,Wilcox,CJ,G,18,23,6.5,195,1990-12-30

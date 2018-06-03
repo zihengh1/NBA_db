@@ -15,7 +15,7 @@ router.get('/', function(req, res, next) {
         filter = 'WHERE userid = ?';
     }
 
-    db.query('SELECT * FROM account ' + filter, user, function(err, rows) {
+    db.query('SELECT * FROM NBA ' + filter, user, function(err, rows) {
         if (err) {
             console.log(err);
         }

@@ -1,17 +1,17 @@
-,Fname,Lname,Position,Number,Height,Weight,Birth Day
-0,Aldrich,Cole,C,45,6.11,253,1988-10-31
-1,Bjelica,Nemanja,F,8,6.10,230,1988-5-9
-2,Brooks,Aaron,G,30,6.0,161,1985-1-14
-3,Brown,Anthony,F,3,6.7,224,1992-10-10
-4,Butler,Jimmy,G,23,6.8,236,1989-9-14
-5,Crawford,Jamal,G,11,6.5,185,1980-3-20
-6,Dieng,Gorgui,C,5,6.11,251,1990-1-18
-7,GeorgesHunt,Marcus,G,13,6.5,226,1994-3-28
-8,Gibson,Taj,F,67,6.9,235,1985-6-24
-9,Jefferson,Amile,F,10,6.9,224,1993-5-7
-10,Jones,Tyus,G,1,6.2,184,1996-5-10
-11,Patton,Justin,C,24,7.0,236,1997-6-14
-12,Rose,Derrick,G,25,6.3,190,1988-10-4
-13,Teague,Jeff,G,0,6.2,189,1988-6-10
-14,Towns,KarlAnthony,C,32,7.0,248,1995-11-15
-15,Wiggins,Andrew,F,22,6.8,202,1995-2-23
+ID,Fname,Lname,Position,Number,Team_Number,Height,Weight,Birth Day
+267,Aldrich,Cole,C,16,45,6.11,253,1988-10-31
+268,Bjelica,Nemanja,F,16,8,6.10,230,1988-5-9
+269,Brooks,Aaron,G,16,30,6.0,161,1985-1-14
+270,Brown,Anthony,F,16,3,6.7,224,1992-10-10
+271,Butler,Jimmy,G,16,23,6.8,236,1989-9-14
+272,Crawford,Jamal,G,16,11,6.5,185,1980-3-20
+273,Dieng,Gorgui,C,16,5,6.11,251,1990-1-18
+274,GeorgesHunt,Marcus,G,16,13,6.5,226,1994-3-28
+275,Gibson,Taj,F,16,67,6.9,235,1985-6-24
+276,Jefferson,Amile,F,16,10,6.9,224,1993-5-7
+277,Jones,Tyus,G,16,1,6.2,184,1996-5-10
+278,Patton,Justin,C,16,24,7.0,236,1997-6-14
+279,Rose,Derrick,G,16,25,6.3,190,1988-10-4
+280,Teague,Jeff,G,16,0,6.2,189,1988-6-10
+281,Towns,KarlAnthony,C,16,32,7.0,248,1995-11-15
+282,Wiggins,Andrew,F,16,22,6.8,202,1995-2-23
