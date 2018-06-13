@@ -7,13 +7,264 @@ Coach_ID,Fname,Lname,Position,Team_ID
 5,Patrick,Mutombo,Assistant Coach,4
 6,John,McCullough,Trainer,4
 7,Alex,McKechnie,Strength and Conditioning,4
-8,Brad,Stevens,Head Coach,0
-9,Jamie,Young,Assistant Coach,0
+8,Scott,McCullough,Trainer,4
+9,Brad,Stevens,Head Coach,0
 10,Jay,Larranaga,Assistant Coach,0
-11,Jerome,Allen,Assistant Coach,0
+11,Walter,McCarty,Assistant Coach,0
 12,Micah,Shrewsberry,Assistant Coach,0
-13,Walter,McCarty,Assistant Coach,0
-14,Art,Horne,Trainer,0
+13,Jamie,Young,Assistant Coach,0
+14,Jerome,Allen,Assistant Coach,0
+15,Ed,Lacerte,Trainer,0
+16,Bryan,Doo,Strength and Conditioning,0
+17,Tyronn,Lue,Head Coach,6
+18,Larry,Drew,Associate Head Coach,6
+19,Jim,Boylan,Assistant Coach,6
+20,Mike,Longabardi,Assistant Coach,6
+21,James,Posey,Assistant Coach,6
+22,Damon,Jones,Assistant Coach,6
+23,Phil,Handy,Assistant/Player Development,6
+24,Stephen,Spiro,Trainer,6
+25,Derek,Millender,Strength and Conditioning,6
+26,Scott,Brooks,Head Coach,14
+27,Tony,Brown,Assistant Coach,14
+28,Sidney,Lowe,Assistant Coach,14
+29,Chad,Iske,Assistant Coach,14
+30,Mike,Terpstra,Assistant Coach,14
+31,Maz,Trakh,Assistant Coach,14
+32,Corey,Bennett,Trainer,14
+33,Navin,Hettiarachchi,Strength and Conditioning,14
+34,Mike,Budenholzer,Head Coach,10
+35,Ben,Sullivan,Assistant Coach,10
+36,Darvin,Ham,Assistant Coach,10
+37,Taylor,Jenkins,Assistant Coach,10
+38,Charles,Lee,Assistant Coach,10
+39,Neven,Spahija,Assistant Coach,10
+40,Art,Horne,Trainer,10
+41,Keke,Lyles,Strength and Conditioning,10
+42,Jason,Kidd,Head Coach,9
+43,Joe,Prunty,Assistant Coach,9
+44,Eric,Hughes,Assistant Coach,9
+45,Greg,Foster,Assistant Coach,9
+46,Sean,Sweeney,Assistant Coach,9
+47,Stacey,Augmon,Assistant Coach,9
+48,Scott,Faust,Trainer,9
+49,Nate,McMillan,Head Coach,8
+50,Bill,Bayno,Assistant Coach,8
+51,Dan,Burke,Assistant Coach,8
+52,Popeye,Jones,Assistant Coach,8
+53,David,McClure,Player Development,8
+54,Josh,Corbeil,Trainer,8
+55,Fred,Hoiberg,Head Coach,5
+56,Jim,Boylen,Associate Head Coach,5
+57,Pete,Myers,Assistant Coach,5
+58,Randy,Brown,Assistant Coach,5
+59,Mike,Wilhelm,Assistant Coach,5
+60,Charlie,Henry,Assistant Coach,5
+61,Jeff,Tanaka,Trainer,5
+62,Erik,Spoelstra,Head Coach,12
+63,Dan,Craig,Assistant Coach,12
+64,Juwan,Howard,Assistant Coach,12
+65,Chris,Quinn,Assistant/Player Development,12
+66,Octavio,De La Grana,Assistant/Player Development,12
+67,Jay,Sabol,Trainer,12
+68,Bill,Foran,Strength and Conditioning,12
+69,Stan Van, Gundy,Head Coach,7
+70,Bob,Beyer,Associate Head Coach,7
+71,Malik,Allen,Assistant Coach,7
+72,Tim,Hardaway,Assistant Coach,7
+73,Charles,Klask,Assistant Coach,7
+74,Aaron,Gray,Assistant Coach,7
+75,Otis,Smith,Assistant/Player Development,7
+76,Dave,Hopla,Player Development,7
+77,Jon,Ishop,Trainer,7
+78,Jordan,Sabourin,Strength and Conditioning,7
+79,Jeff,Hornacek,Head Coach,2
+80,Kurt,Rambis,Associate Head Coach,2
+81,Howard,Eisley,Assistant Coach,2
+82,Corey,Gaines,Assistant Coach,2
+83,Jerry,Sichting,Assistant Coach,2
+84,Joshua,Longstaff,Assistant Coach,2
+85,Dave,Bliss,Player Development,2
+86,Roger,Hinds,Trainer,2
+87,Frank,Vogel,Head Coach,13
+88,Chad,Forcier,Assistant Coach,13
+89,Corliss,Williamson,Assistant Coach,13
+90,David,Adelman,Assistant Coach,13
+91,Jay,Hernandez,Assistant/Player Development,13
+92,Keon,Weise,Trainer,13
+93,Bill,Burgos,Strength and Conditioning,13
+94,Brett,Brown,Head Coach,3
+95,John,Townsend,Shooting Coach,3
+96,Lloyd,Pierce,Assistant Coach,3
+97,Jim,O'Brien,Assistant Coach,3
+98,Kevin,Young,Assistant Coach,3
+99,Billy,Lange,Assistant/Player Development,3
+100,Todd,Wright,Assistant/Strength and Conditioning,3
+101,John,Bryant,Player Development,3
+102,Alvin,Williams,Player Development,3
+103,Kevin,Johnson,Trainer,3
+104,Kenny,Atkinson,Head Coach,1
+105,Bret,Brielmaier,Assistant Coach,1
+106,Chris,Fleming,Assistant Coach,1
+107,Jacque,Vaughn,Assistant Coach,1
+108,Adam,Harrington,Assistant/Player Development,1
+109,Lloyd,Beckett,Trainer,1
+110,Dan,Meehan,Strength and Conditioning,1
+111,Steve,Kerr,Head Coach,20
+112,Ron,Adams,Assistant Coach,20
+113,Mike,Brown,Assistant Coach,20
+114,Jarron,Collins,Assistant Coach,20
+115,Bruce,Fraser,Player Development,20
+116,Chris,DeMarco,Player Development,20
+117,Lachlan,Penfold,Strength and Conditioning,20
+118,Gregg,Popovich,Head Coach,29
+119,Ettore,Messina,Assistant Coach,29
+120,Ime,Udoka,Assistant Coach,29
+121,James,Borrego,Assistant Coach,29
+122,Chip,Engelland,Assistant Coach,29
+123,Becky,Hammon,Assistant Coach,29
+124,Will,Hardy,Assistant Coach,29
+125,Will,Sevening,Trainer,29
+126,Mike,D'Antoni,Head Coach,26
+127,Jeff,Bzdelik,Assistant Coach,26
+128,Roy,Rogers,Assistant Coach,26
+129,Brett,Gunning,Assistant Coach,26
+130,Josh,Oppenheimer,Assistant Coach,26
+131,John,Lucas,Player Development,26
+132,Keith,Jones,Trainer,26
+133,Doc,Rivers,Head Coach,21
+134,Mike,Woodson,Assistant Coach,21
+135,Sam,Cassell,Assistant Coach,21
+136,Brendan,O'Connor,Assistant Coach,21
+137,Armond,Hill,Assistant Coach,21
+138,John,Welch,Assistant Coach,21
+139,Pat,Sullivan,Assistant Coach,21
+140,J.P.,Clark,Player Development,21
+141,Jasen,Powell,Trainer,21
+142,Richard,Williams,Strength and Conditioning,21
+143,Quin,Snyder,Head Coach,19
+144,Igor,Kokoskov,Assistant Coach,19
+145,Alex,Jensen,Assistant Coach,19
+146,Johnnie,Bryant,Assistant Coach,19
+147,Zach,Guthrie,Assistant Coach,19
+148,Antonio,Lang,Assistant Coach,19
+149,Mike,Wells,Assistant Coach,19
+150,Mark,McKown,Assistant/Player Development,19
+151,Jeff,Watkinson,Assistant/Player Development,19
+152,Lamar,Skeeter,Assistant/Player Development,19
+153,Isaiah,Wright,Strength and Conditioning,19
+154,Billy,Donovan,Head Coach,17
+155,Adrian,Griffin,Assistant Coach,17
+156,Maurice,Cheeks,Assistant Coach,17
+157,Anthony,Grant,Assistant Coach,17
+158,Mark,Bryant,Assistant Coach,17
+159,Darko,Rajakovic,Assistant Coach,17
+160,Vin,Bhavnani,Assistant Coach,17
+161,Royal,Ivey,Assistant Coach,17
+162,David,Fizdale,Head Coach,27
+163,J.B.,Bickerstaff,Associate Head Coach,27
+164,Keith,Smart,Assistant Coach,27
+165,Bob,Bender,Assistant Coach,27
+166,Nick,Van Exel,Assistant Coach,27
+167,Adam,Mazarei,Assistant Coach,27
+168,Jim,Scholler,Trainer,27
+169,Chattin,Hill,Strength and Conditioning,27
+170,Terry,Stotts,Head Coach,18
+171,David,Vanterpool,Assistant Coach,18
+172,Nate,Tibbetts,Assistant Coach,18
+173,Dale,Osbourne,Assistant Coach,18
+174,John,McCullough,Assistant Coach,18
+175,Jim,Moran,Assistant Coach,18
+176,Geoff,Clark,Trainer,18
+177,Mike,Malone,Head Coach,15
+178,Wes,Unseld Jr.,Assistant Coach,15
+179,Micah,Nori,Assistant Coach,15
+180,Jordi,Fernandez,Assistant Coach,15
+181,Ryan,Bowen,Assistant Coach,15
+182,Chris,Finch,Assistant Coach,15
+183,John,Beckett,Player Development,15
+184,Dan,Shimensky,Trainer,15
+185,Steve,Hess,Strength and Conditioning,15
+186,Alvin,Gentry,Head Coach,28
+187,Darren,Erman,Assistant Coach,28
+188,Robert,Pack,Assistant Coach,28
+189,Phil,Weber,Assistant Coach,28
+190,Fred,Vinson,Assistant Coach,28
+191,Kevin,Hanson,Assistant Coach,28
+192,Jamelle,McMillan,Assistant Coach,28
+193,Elvis,Valcarcel,Player Development,28
+194,Duane,Brooks,Trainer,28
+195,Jason,Sumerlin,Strength and Conditioning,28
+196,Rick,Carlisle,Head Coach,25
+197,Kaleb,Canales,Assistant Coach,25
+198,Melvin,Hunt,Assistant Coach,25
+199,Darrell,Armstrong,Assistant Coach,25
+200,Jamahl,Mosley,Assistant Coach,25
+201,Larry,Shyatt,Assistant Coach,25
+202,Brad,Davis,Player Development,25
+203,Casey,Smith,Trainer,25
+204,Dave,Joerger,Head Coach,24
+205,Elston,Turner,Assistant Coach,24
+206,Nancy,Lieberman,Assistant Coach,24
+207,Duane,Ticknor,Assistant Coach,24
+208,Jason,March,Assistant Coach,24
+209,Bob,Thornton,Assistant Coach,24
+210,Bryan,Gates,Assistant Coach,24
+211,Dan,Hartfield,Assistant Coach/Scout,24
+212,Larry,Lewis,Player Development,24
+213,Manny,Romero,Trainer,24
+214,Ramsey,Nijem,Strength and Conditioning,24
+215,Tom,Thibodeau,Head Coach,16
+216,Ryan,Saunders,Assistant Coach,16
+217,Andy,Greer,Assistant Coach,16
+218,Ed,Pinckney,Assistant Coach,16
+219,Rick,Brunson,Assistant Coach,16
+220,Gregg,Farnam,Trainer,16
+221,Luke,Walton,Head Coach,22
+222,Brian,Shaw,Associate Head Coach,22
+223,Jesse,Mermuys,Assistant Coach,22
+224,Mark,Madsen,Assistant Coach,22
+225,Jud,Buechler,Assistant Coach,22
+226,Brian,Keefe,Assistant/Player Development,22
+227,Theo,Robertson,Assistant/Player Development,22
+228,Casey,Owens,Assistant Coach/Scout,22
+229,Marco,Nunez,Trainer,22
+230,Earl,Watson,Head Coach,23
+231,Jay,Triano,Associate Head Coach,23
+232,Tyrone,Corbin,Assistant Coach,23
+233,Nate,Bjorkgren,Assistant Coach,23
+234,Marlon,Garnett,Assistant/Player Development,23
+235,Aaron,Nelson,Trainer,23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
